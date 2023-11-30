@@ -2,7 +2,7 @@
 
 Discord  
 - [Registrate](https://discord.com/register)  
-- [Sescarga](https://discord.com/download)  
+- [Descarga](https://discord.com/download)  
 
 Github & Github Desktop  
 - [Registrate](https://github.com/signup?source=login)  
