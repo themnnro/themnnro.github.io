@@ -2,7 +2,7 @@
 
 Discord  
 - [Registrate](https://discord.com/register)  
-- [descarga](https://discord.com/download)  
+- [Sescarga](https://discord.com/download)  
 
 Github & Github Desktop  
 - [Registrate](https://github.com/signup?source=login)  
@@ -21,4 +21,4 @@ Dockerhub
 - [Registrate](https://hub.docker.com/)  
 
 Docker Desktop  
-- [Descarga](https://www.docker.com/products/docker-desktop/)  
+- [Descargar](https://www.docker.com/products/docker-desktop/)  
